@@ -1,0 +1,121 @@
+[
+  {
+    "title": "Vestido azul marino",
+    "description": "Vestido color azul marino con el patron de la marca en color blanco",
+    "code": "Va_MK_01",
+    "price": 899,
+    "status": true,
+    "stock": 1,
+    "category": "vestido",
+    "thumbnail": [
+      "../src/public/img/VestidoAzul_MK.webp"
+    ],
+    "id": 8940
+  },
+  {
+    "title": "Vestido rojo",
+    "description": "Vestido color rojo con piedritas plateadas",
+    "code": "Vr_TH_03",
+    "price": 234,
+    "status": true,
+    "stock": 3,
+    "category": "vestido",
+    "thumbnail": [
+      "../src/public/img/VestidoRojo_TH.webp"
+    ],
+    "id": 1003
+  },
+  {
+    "title": "Playera azul",
+    "description": "Playera tipo polo azul",
+    "code": "Pa_TH_01",
+    "price": 580,
+    "status": true,
+    "stock": 1,
+    "category": "playera",
+    "thumbnail": [
+      "../src/public/img/PlayeraPoloAzul_TH.jpeg"
+    ],
+    "id": 6785
+  },
+  {
+    "title": "Plantalon morado",
+    "description": "Pantalon de vestir color morado oscuro",
+    "code": "Pm_CK_02",
+    "price": 480,
+    "status": true,
+    "stock": 2,
+    "category": "pantalon",
+    "thumbnail": [
+      "../src/public/img/PantalonMorado_CK.webp",
+      "../src/public/img/PantalonLila_CK.jpeg"
+    ],
+    "id": 8940
+  },
+  {
+    "title": "Conjunto beige",
+    "description": "Pantalon con chaleco de color beige",
+    "code": "Cb_MK_01",
+    "price": 980,
+    "status": true,
+    "stock": 1,
+    "category": "conjuntos",
+    "thumbnail": [
+      "../src/public/img/ConjuntoBeige_MK.jpeg"
+    ],
+    "id": 9058
+  },
+  {
+    "id": 6750,
+    "title": "Player Calvin Klein",
+    "description": "Playera beige con el logo en el centro en color negro",
+    "code": "Pb_CK_01",
+    "price": 550,
+    "stock": 1,
+    "category": "playera",
+    "thumbnail": [
+      "/Users/itzelcanorivas/Documents/Programación/BackEnd/Entregas/primeraEntrega-BackEnd_ICR/src/public/img/1707781844209-PlayeraBeige_CK.avif"
+    ],
+    "status": true
+  },
+  {
+    "id": 5261,
+    "title": "Camisa verde Tommy Hilfiger",
+    "description": "Camisa de pana tono verde oliva",
+    "code": "Bvo_TH_02",
+    "price": 750,
+    "stock": 2,
+    "category": "camisa",
+    "thumbnail": [
+      "/Users/itzelcanorivas/Documents/Programación/BackEnd/Entregas/primeraEntrega-BackEnd_ICR/src/public/img/1707782036602-CamisaVerde_TH.webp"
+    ],
+    "status": true
+  },
+  {
+    "id": 7650,
+    "title": "Bolsa beige Karl Lagerfeld",
+    "description": "Bolsa tipo tote talla grande",
+    "code": "BBT_KL_01",
+    "price": 3200,
+    "stock": 1,
+    "category": "bolsas",
+    "thumbnail": [
+      "/Users/itzelcanorivas/Documents/Programación/BackEnd/Entregas/primeraEntrega-BackEnd_ICR/src/public/img/1707782352640-BolsaBeige_KL.webp",
+      "/Users/itzelcanorivas/Documents/Programación/BackEnd/Entregas/primeraEntrega-BackEnd_ICR/src/public/img/1707782352642-BolsaBeigeModelo_KL.jpeg"
+    ],
+    "status": true
+  },
+  {
+    "id": 4421,
+    "title": "Crossbody negra",
+    "description": "Bolsa cruzada negra con correa",
+    "code": "BN_SM_02",
+    "price": 1500,
+    "stock": 2,
+    "category": "bolsas",
+    "thumbnail": [
+      "/Users/itzelcanorivas/Documents/Programación/BackEnd/Entregas/primeraEntrega-BackEnd_ICR/src/public/img/1707783285948-CrossBodyNegra_SM.avif"
+    ],
+    "status": true
+  }
+]
